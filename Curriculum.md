@@ -31,7 +31,7 @@ Interactive Game: https://flexboxfroggy.com
 # Week 4
 **Topic**: [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
 
-**Assignment**: Find a non-profit organization in your local area and design their homepage using CSS Grid.
+**Assignment**: Complete the [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
 
 **Resources**: 
 
