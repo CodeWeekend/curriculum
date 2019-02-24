@@ -18,23 +18,7 @@
 
 **Assignment**: Using CSS Flexbox, convert your CV into a web page.
 
-**Resources**: 
-
-https://dev.opera.com/articles/flexbox-basics/
-
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-
-https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35
-
-Interactive Game: https://flexboxfroggy.com
-
 # Week 4
 **Topic**: [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
 
 **Assignment**: Complete the [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
-
-**Resources**: 
-
-https://gridbyexample.com/
-
-https://css-tricks.com/snippets/css/css-grid-starter-layouts/
