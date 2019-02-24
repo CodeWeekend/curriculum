@@ -6,4 +6,14 @@ Individuals will be evaluated based on their answers to the application form and
 
 The curriculum for the program focuses on web, by initially teaching the basics of computer science. It has individual assignments and collaborative project works that has high level of priority in order to stay in the program.
 
-Program curriculum can be found [here](./Curriculum.md), and the associated weekly program design is located [here](./Program-design.md). There is also a [mentor guide](./Mentor-guide.md), along with general [introduction](./Introduction.md) and history of the program.
+**Links**:
+
+[Introduction](./Introduction.md)
+
+[Program Curriculum](./Curriculum.md)
+
+[Program Curriculum Design](./Program-design.md)
+
+[Instructor Guide](./Mentor-guide.md)
+
+[Mentor Guide](./Mentor-guide.md)
