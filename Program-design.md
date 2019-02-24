@@ -59,6 +59,8 @@ https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35
 
 Interactive Game: https://flexboxfroggy.com
 
+Solved by Flexbox: https://philipwalton.github.io/solved-by-flexbox/
+
 # Week 4
 **60 Minutes**: [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
 
