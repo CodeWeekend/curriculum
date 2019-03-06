@@ -81,8 +81,10 @@ https://css-tricks.com/snippets/css/css-grid-starter-layouts/
 
 **Assignment**: Complete the remaining three [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
 
-**Resources**: 
+**Resources**:
+
 http://eloquentjavascript.net
+
 https://github.com/getify/You-Dont-Know-JS
 
 # Week 6
@@ -93,6 +95,8 @@ https://github.com/getify/You-Dont-Know-JS
 **Assignment**: Complete the [Palindrome Checker Project](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
 
 **Resources**: 
+
 https://github.com/ericdouglas/ES6-Learning
+
 http://es6-features.org
 
