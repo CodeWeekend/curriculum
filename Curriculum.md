@@ -21,4 +21,14 @@
 # Week 4
 **Topic**: [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
 
-**Assignment**: Complete the [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
+**Assignment**: Complete the first two [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
+
+# Week 5
+**Topic**: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+
+**Assignment**: Complete the remaining three [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
+
+# Week 6
+**Topic**: [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
+
+**Assignment**: Complete the [Palindrome Checker Project](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
