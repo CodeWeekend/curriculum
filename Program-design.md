@@ -66,10 +66,33 @@ Solved by Flexbox: https://philipwalton.github.io/solved-by-flexbox/
 
 **60 Minutes**: Mentor to do work on additional examples and practice with participants
 
-**Assignment**: Complete the [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
+**Assignment**: Complete the first two [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
 
 **Resources**: 
 
 https://gridbyexample.com/
 
 https://css-tricks.com/snippets/css/css-grid-starter-layouts/
+
+# Week 5
+**60 Minutes**: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+
+**60 Minutes**: Mentor to do work on additional examples and practice with participants
+
+**Assignment**: Complete the remaining three [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
+
+**Resources**: 
+http://eloquentjavascript.net
+https://github.com/getify/You-Dont-Know-JS
+
+# Week 6
+**60 Minutes**: [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
+
+**60 Minutes**: Mentor to do work on additional examples and practice with participants
+
+**Assignment**: Complete the [Palindrome Checker Project](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
+
+**Resources**: 
+https://github.com/ericdouglas/ES6-Learning
+http://es6-features.org
+
