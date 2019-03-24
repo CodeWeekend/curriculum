@@ -32,3 +32,8 @@
 **Topic**: [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
 
 **Assignment**: Complete the [Palindrome Checker Project](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
+
+# Week 7
+**Topic**: [Regular Expressions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions) and [Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)
+
+**Assignment**: Complete the [Roman Numeral Converter](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
