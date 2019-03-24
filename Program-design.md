@@ -100,3 +100,18 @@ https://github.com/ericdouglas/ES6-Learning
 
 http://es6-features.org
 
+# Week 7
+**60 Minutes**: [Regular Expressions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions) and [Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)
+
+**60 Minutes**: Mentor to do work on additional examples and practice with participants
+
+**Assignment**: Complete the [Roman Numeral Converter](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
+
+**Resources**: 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+
+https://flaviocopes.com/javascript-regular-expressions
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/
+
