@@ -115,3 +115,19 @@ https://flaviocopes.com/javascript-regular-expressions
 
 https://developers.google.com/web/tools/chrome-devtools/javascript/
 
+# Week 8
+**60 Minutes**: [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures) and [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+
+**60 Minutes**: Mentor to do work on additional examples and practice with participants
+
+**Assignment**: Complete the [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
+
+**Resources**: 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
+https://github.com/trekhleb/javascript-algorithms
+
+https://eloquentjavascript.net/04_data.html
+
+
