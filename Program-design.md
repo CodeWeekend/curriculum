@@ -130,4 +130,19 @@ https://github.com/trekhleb/javascript-algorithms
 
 https://eloquentjavascript.net/04_data.html
 
+# Week 9
+**60 Minutes**: [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+
+**60 Minutes**: Mentor to do work on additional examples and practice with participants
+
+**Assignment**: Complete the [Telephone Number Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
+
+**Resources**: 
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
+https://medium.freecodecamp.org/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a
+
+https://scotch.io/tutorials/object-oriented-programming-in-javascript
+
 
