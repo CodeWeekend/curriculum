@@ -145,4 +145,17 @@ https://medium.freecodecamp.org/an-introduction-to-object-oriented-programming-i
 
 https://scotch.io/tutorials/object-oriented-programming-in-javascript
 
+# Week 10
+**60 Minutes**: [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
 
+**60 Minutes**: Mentor to do work on additional examples and practice with participants
+
+**Assignment**: Complete the [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) Project
+
+**Resources**: 
+
+https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f
+
+https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5
+
+https://flaviocopes.com/javascript-functional-programming
