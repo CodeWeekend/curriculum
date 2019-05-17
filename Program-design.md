@@ -159,3 +159,14 @@ https://medium.freecodecamp.org/functional-programming-principles-in-javascript-
 https://codeburst.io/functional-programming-in-javascript-e57e7e28c0e5
 
 https://flaviocopes.com/javascript-functional-programming
+
+# Week 11
+**60 Minutes**: [Introduction to the Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+
+**60 Minutes**: Mentor to do work on additional examples and practice with participants
+
+**Assignment**: Instructor will complete 5 of the desired challenges from the list of challenges. Students are required to complete the rest of the challenge as an assignment by next week.
+
+**Resources**: 
+
+TBD
