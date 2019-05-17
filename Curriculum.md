@@ -52,3 +52,8 @@
 **Topic**: [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
 
 **Assignment**: Complete the [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) Project
+
+# Week 11
+**Topic**: [Introduction to the Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
+
+**Assignment**: Instructor will complete 5 of the desired challenges from the list of challenges. Students are required to complete the rest of the challenge as an assignment by next week.
