@@ -24,36 +24,41 @@
 **Assignment**: Complete the first two [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
 
 # Week 5
+**Topic**: [Tailwind CSS](https://tailwindcss.com)
+
+**Assignment**: Using CSS Tailwind CSS, convert your CV into a web page. Student should also explore other CSS frameworks as well and write a report which framework they prefer to use and why.
+
+# Week 6
 **Topic**: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
 
 **Assignment**: Complete the remaining three [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
 
-# Week 6
+# Week 7
 **Topic**: [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
 
 **Assignment**: Complete the [Palindrome Checker Project](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
 
-# Week 7
+# Week 8
 **Topic**: [Regular Expressions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions) and [Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)
 
 **Assignment**: Complete the [Roman Numeral Converter](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
 
-# Week 8
+# Week 9
 **Topic**: [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures) and [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
 
 **Assignment**: Complete the [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
 
-# Week 9
+# Week 10
 **Topic**: [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
 
 **Assignment**: Complete the [Telephone Number Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
 
-# Week 10
+# Week 11
 **Topic**: [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
 
 **Assignment**: Complete the [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) Project
 
-# Week 11
+# Week 12
 **Topic**: [Introduction to the Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
 
 **Assignment**: Instructor will complete 5 of the desired challenges from the list of challenges. Students are required to complete the rest of the challenge as an assignment by next week.
