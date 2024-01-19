@@ -7,7 +7,7 @@ The curriculum for the program focuses on web, by initially teaching the basics 
 
 **Links**:
 
-[Curriculum](./Curriculum.md)
+[Curriculum](./curriculum/curriculum.md)
 
 [Instructor Guide](./Mentor-guide.md)
 
