@@ -1,64 +1,52 @@
-# Week 0
-**Topic**: [Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5) & [Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
+# Full-Stack Development Curriculum Using JavaScript
 
-**Assignment**: Create a video explaining HTML and CSS and upload it to Youtube. The video should not be less than 5 minutes.
+## 1. Foundation
+### Computer Basics
 
-# Week 1
-**Topic**: [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design) & [Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
+### Internet Fundamentals
 
-**Assignment**: Create a blog using [WordPress](wordpress.com) and write an article about Web Accessibility.
+### Web and Browsers
 
-# Week 2
-**Topic**: [Responsive Web Design Principles](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles)
+### Editors and IDEs
 
-**Assignment**: Create groups of maximum 3 members and conduct an interview with a senior develper in your local area.
+### Git and Version Control
 
-# Week 3
-**Topic**: [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
+### HTML
 
-**Assignment**: Using CSS Flexbox, convert your CV into a web page.
+### CSS
 
-# Week 4
-**Topic**: [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
+### JavaScript
 
-**Assignment**: Complete the first two [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
+## 2. Frontend Development
+### Advanced HTML and CSS
 
-# Week 5
-**Topic**: [Tailwind CSS](https://tailwindcss.com)
+### Deep Dive into JavaScript
 
-**Assignment**: Using CSS Tailwind CSS, convert your CV into a web page. Student should also explore other CSS frameworks as well and write a report which framework they prefer to use and why.
+### OOP in JavaScript
 
-# Week 6
-**Topic**: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+### Building a Mini JavaScript Framework
 
-**Assignment**: Complete the remaining three [Responsive Web Design Projects](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects)
+### React JS
 
-# Week 7
-**Topic**: [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
+## 3. Backend Development
+### NodeJS
 
-**Assignment**: Complete the [Palindrome Checker Project](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
+### Database Management
 
-# Week 8
-**Topic**: [Regular Expressions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions) and [Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)
+### Integration of Frontend and Backend
 
-**Assignment**: Complete the [Roman Numeral Converter](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)
+## 4. Data Structures & Algorithms
+### Basic Data Structures
 
-# Week 9
-**Topic**: [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures) and [Basic Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
+### Core Algorithms
 
-**Assignment**: Complete the [Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
+### Algorithmic Problem Solving
 
-# Week 10
-**Topic**: [Object Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
+## 5. Job Interview Preparation
+### CV and Cover Letter Writing
 
-**Assignment**: Complete the [Telephone Number Validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
+### Technical Interview Preparation
 
-# Week 11
-**Topic**: [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
+### Soft Skills and Networking
 
-**Assignment**: Complete the [Cash Register](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register) Project
-
-# Week 12
-**Topic**: [Introduction to the Intermediate Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
-
-**Assignment**: Instructor will complete 5 of the desired challenges from the list of challenges. Students are required to complete the rest of the challenge as an assignment by next week.
+### Continuous Self-Marketing
